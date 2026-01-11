@@ -16,3 +16,21 @@ Explore with me the realms of software development and electronics, Non stop see
 [![](https://visitcount.itsvg.in/api?id=samishak&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤖 Learning Focus
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning;Artificial+Intelligence;Data+Analysis" alt="Typing SVG" />
+</div>
+
+
+- Machine Learning 
+- Data Analysis & Visualization
+- Model Training, Evaluation & Optimization
+
+### 🧠 Tools & Libraries I’m Learning With:
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
